@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E27C2CF61AA0872F0099C889"
+               BlueprintIdentifier = "E2DD2F491AA262A600BB30B8"
                BuildableName = "BlocNotes.app"
                BlueprintName = "BlocNotes"
                ReferencedContainer = "container:BlocNotes.xcodeproj">
@@ -28,7 +28,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E27C2D121AA0872F0099C889"
+               BlueprintIdentifier = "E2DD2F681AA262A600BB30B8"
                BuildableName = "BlocNotesTests.xctest"
                BlueprintName = "BlocNotesTests"
                ReferencedContainer = "container:BlocNotes.xcodeproj">
@@ -46,7 +46,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "E27C2D121AA0872F0099C889"
+               BlueprintIdentifier = "E2DD2F681AA262A600BB30B8"
                BuildableName = "BlocNotesTests.xctest"
                BlueprintName = "BlocNotesTests"
                ReferencedContainer = "container:BlocNotes.xcodeproj">
@@ -56,7 +56,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E27C2CF61AA0872F0099C889"
+            BlueprintIdentifier = "E2DD2F491AA262A600BB30B8"
             BuildableName = "BlocNotes.app"
             BlueprintName = "BlocNotes"
             ReferencedContainer = "container:BlocNotes.xcodeproj">
@@ -75,7 +75,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E27C2CF61AA0872F0099C889"
+            BlueprintIdentifier = "E2DD2F491AA262A600BB30B8"
             BuildableName = "BlocNotes.app"
             BlueprintName = "BlocNotes"
             ReferencedContainer = "container:BlocNotes.xcodeproj">
@@ -93,7 +93,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "E27C2CF61AA0872F0099C889"
+            BlueprintIdentifier = "E2DD2F491AA262A600BB30B8"
             BuildableName = "BlocNotes.app"
             BlueprintName = "BlocNotes"
             ReferencedContainer = "container:BlocNotes.xcodeproj">
